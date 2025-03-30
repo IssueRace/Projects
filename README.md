@@ -1,8 +1,11 @@
-# Projects
-This project solves the Collatz Conjecture. To run the program, follow these steps:
+# Collatz Conjecture
 
-1. Launch the process.
-2. Enter the input data.
-3. Click the button to start the calculation.
+This project solves the **Collatz Conjecture**.
 
-You will receive the results in the form of a histogram.
+<h2>How to Run</h2>
+<ol>
+   <li>Launch the process.</li>
+   <li>Enter the input data.</li>
+   <li>Click the button to start the calculation.</li>
+</ol>
+<p>The results will be displayed as a histogram.</p>
